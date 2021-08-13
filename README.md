@@ -1,3 +1,5 @@
+Google Challenge attempted in Python (22 passed, 49 incomplete)
+
 # Youtube Challenge - Python
 The Python Youtube Challenge uses Python3. 
 The below commands use Python3 specifically, to account for users that might 
